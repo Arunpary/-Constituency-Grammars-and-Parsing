@@ -1,5 +1,5 @@
-nltk.download('punkt')
 import nltk
+nltk.download('punkt')
 from nltk.corpus import treebank
 from nltk import PCFG, ViterbiParser
 
